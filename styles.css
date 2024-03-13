@@ -1,0 +1,32 @@
+body, html{
+  height: 100%;
+  width: auto;  
+}
+
+.container{
+    height: 60%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.input{ 
+    border-radius: 3px;
+    padding: auto;
+    margin: 20px;
+    width: 200px;
+    height: 40px;
+    color: grey;
+    border: 0px;
+    background-color: rgb(180, 180, 180);
+
+}
+
+.button{
+    border-radius: 3px;
+    width: 200px;
+    height: 40px;
+    color: white;
+    border: 0px;
+}
